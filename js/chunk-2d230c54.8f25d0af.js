@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230c54"],{ee64:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h3",[e._v("震動傳輸設備")])])}],u={},l=u,s=t("2877"),a=Object(s["a"])(l,c,r,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d230c54.8f25d0af.js.map
